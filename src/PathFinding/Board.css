@@ -1,0 +1,16 @@
+.wrapper {
+    display: grid;
+    justify-content: center;
+    /*border: 1px solid black;*/
+    margin: 2rem auto 0 auto;
+}
+
+.square{
+    outline: 1px solid rgba(52, 63, 86, 0.5) ;
+    user-select: none; 
+    background-color: white; 
+}
+
+.wall{
+    background-color: black;
+}

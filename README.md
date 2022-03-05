@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-** in case you have problems with index.lock : (rm .git/index.lock)[https://stackoverflow.com/questions/38004148/another-git-process-seems-to-be-running-in-this-repository] (without -f)
+** in case you have problems with index.lock : [rm .git/index.lock](https://stackoverflow.com/questions/38004148/another-git-process-seems-to-be-running-in-this-repository)(without -f)
 
 ## Available Scripts
 
